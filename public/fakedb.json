@@ -1,0 +1,62 @@
+[
+    {
+        "id": "6467483607ccff3728c1069f",
+        "blogTitle":"Mastering Programming: Essential Tips and Tricks for Success",
+        "isActive": true,
+        "picture": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=906&q=80",
+        "authorImage": "https://i.imgur.com/UEk5zK1.jpeg",
+        "name": "Jackie Barr",
+        "about": "In this blog, we delve into the world of programming and provide you with valuable insights, tips, and tricks to help you enhance your programming skills. Whether you're a beginner or an experienced developer, we cover topics such as best practices, problem-solving techniques, and staying up-to-date with the latest programming languages and frameworks.\r\n",
+        "registered": "Today",
+        "Readtime": 4,
+        "tags": [
+            "programming",
+            "coding",
+            "software development",
+            "programming tips",
+            "programming tricks"
+        ]
+    },
+    {
+        "id": "646748360ba672cd9159a8f0",
+        "blogTitle":"Demystifying Cryptocurrency: A Beginner's Guide to Understanding the World of Digital Assets",
+        "isActive": false,
+        "picture": "https://images.unsplash.com/photo-1639754390580-2e7437267698?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=841&q=80",
+        "authorImage": "https://i.imgur.com/NvUBClC.png",
+        "name": "Vickie Clemons",
+        "about": "Are you curious about cryptocurrencies and how they work? This blog serves as a beginner's guide, breaking down complex concepts into easily understandable terms. We cover topics such as blockchain technology, Bitcoin, altcoins, and the basics of investing and trading in the crypto market.\r\n",
+        "registered": "May 18 (21 hours ago)",
+        "Readtime": 24,
+        "tags": [
+            "cryptocurrency", "blockchain", "Bitcoin", "altcoins", "investing", "trading", "digital assets"
+        ]
+    },
+    {
+        "id": "64674836bb0a7eddae4efd0f",
+        "blogTitle":"Unleashing the Power of AI: Exploring the Latest Breakthroughs and Practical Applications",
+        "isActive": true,
+        "picture": "https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "authorImage": "https://i.imgur.com/Kf4cW.jpeg",
+        "name": "Foreman Jordan",
+        "about": "Artificial Intelligence is rapidly transforming industries and impacting our daily lives. In this blog, we explore the latest advancements in AI, including machine learning, deep learning, and neural networks. We also discuss real-world applications of AI in various fields such as healthcare, finance, and automation, showcasing how AI is revolutionizing the way we live and work.\r\n",
+        "registered": "May 17 (1 Days ago)",
+        "Readtime": 30,
+        "tags": [
+            "artificial intelligence", "AI", "machine learning", "deep learning", "neural networks", "AI applications"
+        ]
+    },
+    {
+        "id": "64674836cc62418d441db16e",
+        "blogTitle":"Digital Marketing Trends in 2023: Strategies and Tools to Stay Ahead of the Competition",
+        "isActive": false,
+        "picture": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGlnaXRhbCUyMG1hcmtldGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "authorImage": "https://i.imgur.com/zhw5T.jpeg",
+        "name": "Dunlap Gallegos",
+        "about": "Digital marketing is constantly evolving, and staying updated with the latest trends is crucial for businesses and marketers. In this blog, we uncover the emerging trends in digital marketing for 2023, from social media marketing and content strategy to influencer marketing and data-driven insights. Discover effective strategies and tools to maximize your online presence and outshine your competitors in the digital landscape.\r\n",
+        "registered": "May 14 (4 Days ago)",
+        "Readtime": 11,
+        "tags": [
+            "digital marketing", "marketing trends", "social media marketing", "content strategy"
+        ]
+    }
+]
