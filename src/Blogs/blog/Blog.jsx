@@ -30,7 +30,7 @@ const blog = (props) => {
                                 </div>
                             </div>
                             <p className="text-xs text-neutral-500 dark:text-neutral-300">
-                                {Readtime} mins read  <a onClick={() => { BookmarkHandeler(props.blog)}} className='cursor-pointer mx-1'><FontAwesomeIcon icon={faBookmark} /></a>
+                                {Readtime} mins read  <a onClick={() => { BookmarkHandeler(props.blog)}} className='text-lg cursor-pointer mx-1'><FontAwesomeIcon icon={faBookmark} /></a>
                             </p>
                         </div>
                         <div className="py-3">
